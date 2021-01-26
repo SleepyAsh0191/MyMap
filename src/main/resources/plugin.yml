@@ -1,0 +1,9 @@
+name: MyMapPlugin
+version: ${project.version}
+main: com.whksoft.mymapplugin.MyMapPlugin
+api-version: 1.16
+commands:
+  map:
+    description: test map render
+    usage: /<command>
+    
